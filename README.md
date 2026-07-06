@@ -41,9 +41,10 @@ The dashboard enables users to filter data dynamically by month or custom date r
 
 ---
 
-## 📊 Dashboard Pages
+## 📸 Dashboard Preview
 
-### 1️⃣ Monthly View
+### Monthly View
+<img width="609" height="370" alt="Screenshot 2026-07-06 173223" src="https://github.com/user-attachments/assets/fbbb011e-cb5c-4b48-83fb-c8db1f37e9e6" />
 
 Provides month-wise operational analysis including:
 
@@ -61,8 +62,8 @@ Provides month-wise operational analysis including:
 
 ---
 
-### 2️⃣ Consolidated View
-
+### Consolidated View
+<img width="611" height="373" alt="Screenshot 2026-07-06 173238" src="https://github.com/user-attachments/assets/64b94e3f-8307-423a-8b6c-fc2679c62c62" />
 Provides an overall performance summary for any selected date range.
 
 Includes:
@@ -76,7 +77,8 @@ Includes:
 
 ---
 
-### 3️⃣ Patient Details
+### Patient Details
+<img width="610" height="371" alt="Screenshot 2026-07-06 173249" src="https://github.com/user-attachments/assets/07d4cba3-64e4-4482-a931-3ccfd9dabd5e" />
 
 Interactive table containing patient-level information:
 
@@ -94,7 +96,8 @@ Useful for operational audits and detailed record analysis.
 
 ---
 
-### 4️⃣ Key Takeaways
+### Key Takeaways
+<img width="611" height="363" alt="Screenshot 2026-07-06 173257" src="https://github.com/user-attachments/assets/d8775418-e943-4efa-81d3-117cd09eb0e9" />
 
 Executive summary highlighting:
 
@@ -154,33 +157,6 @@ Some key insights generated from the dashboard include:
 7. Dashboard Design
 8. Report Development
 9. Insight Generation
-
----
-
-## 📸 Dashboard Preview
-
-### Monthly View
-
-
-
----
-
-### Consolidated View
-
-
-
----
-
-### Patient Details
-
-
-
----
-
-### Key Takeaways
-
-
-
 ---
 
 ## 📁 Repository Structure
@@ -237,9 +213,7 @@ This dashboard enables hospital management to:
 
 📧 Email: simrankirtania02@gmail.com
 
-🔗 LinkedIn: *(Add your LinkedIn URL)*
-
-🌐 Portfolio: *(Add your Portfolio URL)*
+🔗 LinkedIn: https://www.linkedin.com/in/simrankirtania/
 
 ---
 
