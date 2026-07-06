@@ -161,25 +161,25 @@ Some key insights generated from the dashboard include:
 
 ### Monthly View
 
-*(Insert Screenshot)*
+
 
 ---
 
 ### Consolidated View
 
-*(Insert Screenshot)*
+
 
 ---
 
 ### Patient Details
 
-*(Insert Screenshot)*
+
 
 ---
 
 ### Key Takeaways
 
-*(Insert Screenshot)*
+
 
 ---
 
