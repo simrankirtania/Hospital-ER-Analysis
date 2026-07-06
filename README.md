@@ -65,9 +65,8 @@ Provides month-wise operational analysis including:
 
 ### Consolidated View
 <img width="611" height="373" alt="Screenshot 2026-07-06 173238" src="https://github.com/user-attachments/assets/64b94e3f-8307-423a-8b6c-fc2679c62c62" />
+
 Provides an overall performance summary for any selected date range.
-
-
 Includes:
 
 - Overall KPIs
