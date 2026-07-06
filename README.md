@@ -46,6 +46,7 @@ The dashboard enables users to filter data dynamically by month or custom date r
 ### Monthly View
 <img width="609" height="370" alt="Screenshot 2026-07-06 173223" src="https://github.com/user-attachments/assets/fbbb011e-cb5c-4b48-83fb-c8db1f37e9e6" />
 
+
 Provides month-wise operational analysis including:
 
 - Total Patients
@@ -65,6 +66,7 @@ Provides month-wise operational analysis including:
 ### Consolidated View
 <img width="611" height="373" alt="Screenshot 2026-07-06 173238" src="https://github.com/user-attachments/assets/64b94e3f-8307-423a-8b6c-fc2679c62c62" />
 Provides an overall performance summary for any selected date range.
+
 
 Includes:
 
