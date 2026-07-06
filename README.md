@@ -82,6 +82,7 @@ Includes:
 ### Patient Details
 <img width="610" height="371" alt="Screenshot 2026-07-06 173249" src="https://github.com/user-attachments/assets/07d4cba3-64e4-4482-a931-3ccfd9dabd5e" />
 
+
 Interactive table containing patient-level information:
 
 - Patient ID
@@ -100,6 +101,7 @@ Useful for operational audits and detailed record analysis.
 
 ### Key Takeaways
 <img width="611" height="363" alt="Screenshot 2026-07-06 173257" src="https://github.com/user-attachments/assets/d8775418-e943-4efa-81d3-117cd09eb0e9" />
+
 
 Executive summary highlighting:
 
