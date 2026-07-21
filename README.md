@@ -184,17 +184,15 @@ Some key insights generated from the dashboard include:
 ## 📁 Repository Structure
 
 ```
+```text
 Hospital-Emergency-Room-Dashboard/
 │
-├── Dashboard.pbix
-├── Hospital ER_Data.csv
-├── README.md
-├── screenshots/
-│   ├── monthly_view.png
-│   ├── consolidated_view.png
-│   ├── patient_details.png
-│   └── key_takeaways.png
-└── assets/
+├── Hospital ER Analysis.pbix          # Power BI dashboard file
+├── Hospital Emergency Room PPT.pptx   # Project presentation
+├── Hospital ER Analysis.pdf           # Dashboard report (PDF)
+├── Hospital ER_Data.csv               # Source dataset
+├── README.md                          # Project documentation
+└── LICENSE                            # MIT License
 ```
 
 ---
