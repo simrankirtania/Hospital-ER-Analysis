@@ -186,12 +186,12 @@ Some key insights generated from the dashboard include:
 ```text
 Hospital-Emergency-Room-Dashboard/
 │
-├── Hospital ER Analysis.pbix          # Power BI dashboard file
-├── Hospital Emergency Room PPT.pptx   # Project presentation
-├── Hospital ER Analysis.pdf           # Dashboard report (PDF)
-├── Hospital ER_Data.csv               # Source dataset
-├── README.md                          # Project documentation
-└── LICENSE                            # MIT License
+├── Business Requirements.pdf
+├── Hospital ER Analysis.pbix        
+├── Hospital ER Analysis.pdf          
+├── Hospital ER_Data.csv              
+├── README.md                          
+└── LICENSE                           
 ```
 
 ## 📌 Skills Demonstrated
