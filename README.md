@@ -183,7 +183,6 @@ Some key insights generated from the dashboard include:
 
 ## 📁 Repository Structure
 
-```
 ```text
 Hospital-Emergency-Room-Dashboard/
 │
@@ -194,8 +193,6 @@ Hospital-Emergency-Room-Dashboard/
 ├── README.md                          # Project documentation
 └── LICENSE                            # MIT License
 ```
-
----
 
 ## 📌 Skills Demonstrated
 
