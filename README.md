@@ -83,18 +83,20 @@ The project was designed to:
 
 The analysis uses a hospital emergency room patient-level dataset containing information such as:
 
-- Patient ID
-- Patient name
-- Gender
-- Age
-- Admission date
-- Race
-- Wait time
-- Department referral
-- Admission status
-- Patient satisfaction score
-- Arrival time/day information
-- Case Manager assignment
+- The analysis uses a hospital emergency room patient-level dataset containing information such as:
+- Patient ID: Unique identifier assigned to each patient.
+- Patient name: Name of the patient.
+- Gender: Patient’s gender.
+- Age: Patient’s age.
+- Admission date: Date the patient was admitted.
+- Race: Patient’s racial background.
+- Wait time: Time the patient waited for care.
+- Department referral: Department to which the patient was referred.
+- Admission status: Patient’s admission or discharge status.
+- Patient satisfaction score: Patient’s rating of their care experience.
+- Arrival time/day information: Time and day the patient arrived.
+- Case Manager assignment: Case manager assigned to the patient.
+
 
 The reporting period covers **April 2023 to October 2024**, with **9,216 patient visits**.
 
