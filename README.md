@@ -24,7 +24,6 @@ The project begins with an interactive Power BI dashboard that answers the basic
 - [Data Quality & Limitations](#data-quality--limitations)
 - [How to Explore the Project](#how-to-explore-the-project)
 - [Skills Demonstrated](#skills-demonstrated)
-- [License](#license)
 
 ---
 
@@ -668,6 +667,5 @@ That distinction turns the project from a dashboard exercise into a broader **de
 
 ---
 
-## License
-
-This project is available under the license included in the repository.
+**Author:** Simran Kirtania — MSc Economics, aspiring Analyst
+📧 simrankirtania02@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/simrankirtania/) · 🌐 [Portfolio](https://simrankirtaniaportfolio.netlify.app)
