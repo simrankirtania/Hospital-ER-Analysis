@@ -83,7 +83,6 @@ The project was designed to:
 
 The analysis uses a hospital emergency room patient-level dataset containing information such as:
 
-- The analysis uses a hospital emergency room patient-level dataset containing information such as:
 - Patient ID: Unique identifier assigned to each patient.
 - Patient name: Name of the patient.
 - Gender: Patient’s gender.
